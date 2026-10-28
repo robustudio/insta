@@ -1,0 +1,79 @@
+1
+00:00:00,133 --> 00:00:01,682
+This is Robu Studio.
+
+2
+00:00:01,682 --> 00:00:04,391
+Small apps, built to actually help.
+
+3
+00:00:04,767 --> 00:00:05,648
+Taksi Hesap.
+
+4
+00:00:05,648 --> 00:00:07,999
+Daily accounts for taxi drivers.
+
+5
+00:00:07,999 --> 00:00:09,469
+Live on Google Play.
+
+6
+00:00:09,833 --> 00:00:10,512
+TV-List.
+
+7
+00:00:10,512 --> 00:00:13,309
+Every show and film, in one list.
+
+8
+00:00:13,309 --> 00:00:14,326
+Coming soon.
+
+9
+00:00:14,700 --> 00:00:15,290
+Pagely.
+
+10
+00:00:15,290 --> 00:00:17,059
+Your digital library.
+
+11
+00:00:17,059 --> 00:00:18,070
+Coming soon.
+
+12
+00:00:18,433 --> 00:00:18,686
+Yip.
+
+13
+00:00:18,686 --> 00:00:21,464
+Charts for knitters, crocheters and sewists.
+
+14
+00:00:21,833 --> 00:00:22,540
+Pigeon.
+
+15
+00:00:22,540 --> 00:00:24,864
+Pen pals, the slow way.
+
+16
+00:00:25,233 --> 00:00:26,469
+Taksi Hesap Filo.
+
+17
+00:00:26,469 --> 00:00:28,577
+Follow your whole taxi fleet.
+
+18
+00:00:28,933 --> 00:00:29,601
+No ads.
+
+19
+00:00:29,601 --> 00:00:31,128
+No data selling.
+
+20
+00:00:31,128 --> 00:00:33,322
+Find us at robu.studio.
